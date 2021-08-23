@@ -1,5 +1,8 @@
 # data-science-select-talks  
 A repo - collection of subjectively good talks about general data science topics.  
+## AICamp
+- [Aric LaBarr: The Bayesians are Coming to Time Series](https://youtu.be/P_RnURpkgdE)
+A good starter on time-series modelling. 
 ## PyData
 ### Jeddah 2020
 - [Bayesian hierarchical time series with Prophet and PyMC3 - Matthijs Brouns](https://youtu.be/jo12CWZ00Lo)  
