@@ -20,5 +20,5 @@ Nice tips and tricks for using Gaussian Mixture Models in neural nets & modeling
 
 ## SciPy
 ### 2019
-- [Aileen Nielsen: Modern Time Series Analysis](https://youtu.be/v5ijNXvlC5A)
+- [Aileen Nielsen: Modern Time Series Analysis](https://youtu.be/v5ijNXvlC5A)  
 A 3h tutorial on time series modelling with a hands-on practical examples.
